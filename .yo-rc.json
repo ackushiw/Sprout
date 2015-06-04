@@ -1,0 +1,14 @@
+{
+  "generator-angular-famous-ionic": {
+    "filenameCase": "snake",
+    "filenameSuffix": true,
+    "appname": "sprout",
+    "clientFolder": "src",
+    "ionic": false,
+    "famous": false,
+    "ngCordova": false,
+    "fontawesome": false,
+    "bootstrap": true,
+    "material": true
+  }
+}
